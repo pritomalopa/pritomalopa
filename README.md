@@ -50,8 +50,8 @@ clean, functional UI.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pritomalopa&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats-nine-rho.vercel.app/api?username=pritomalopa&show_icons=true&theme=tokyonight" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritomalopa&layout=compact&theme=tokyonight" width="40%"/>
+
 
 </div>
