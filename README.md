@@ -48,9 +48,9 @@ clean, functional UI.
 
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pritomalopa&show_icons=true&theme=default" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritomalopa&layout=compact" width="40%"/>
 </div>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pritomalopa" width="48%"/>
 </div>
