@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="BANNER_IMAGE_URL_HERE" width="100%" alt="Banner"/>
+<img src="assets/bg.png" width="100%" alt="Banner"/>
 
 # Hi, I'm Pritoma 👋
 ### Frontend Web Developer
