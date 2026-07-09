@@ -47,6 +47,7 @@ clean, functional UI.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritomalopa100@gmail.com)
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=pritomalopa&show_icons=true&theme=tokyonight" width="48%"/>
