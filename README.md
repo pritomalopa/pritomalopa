@@ -73,6 +73,7 @@ AI-Assisted Engineering
    Tech Stack: React Node.js Express MongoDB Firebase Stripe 
   •Live Link:(https://crowdspark-client.vercel.app) 
    <br>
+   
 🔹 Nestify — Property rental platform with Tenant/Owner/Admin dashboards, Stripe checkout, and a downloadable PDF earnings report.
    Tech Stack: React Firebase Stripe Recharts jsPDF
    •Live Link:(https://nestify-client-hazel.vercel.app)
@@ -82,6 +83,7 @@ AI-Assisted Engineering
    Tech Stack: React Node.js Express MongoDB Firebase
    •Live Link:(https://doc-appoint-client-c5yf.vercel.app)
    <br>
+   
 🔹 StudyNest — Study resource-sharing platform built with strict TypeScript typing end-to-end. 
    Tech Stack: React TypeScript Vite Tailwind CSS
    •Live Link:(https://studynest-client-nine.vercel.app)
