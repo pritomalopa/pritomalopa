@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/bg.png" width="100%" alt="Banner"/>
+  <img src="cover github and linkedin.png" width="100%" alt="Banner"/>
   <h1>Hi, I'm Pritoma 👋</h1>
   <h3>Full Stack (MERN) Developer</h3>
 </div>
