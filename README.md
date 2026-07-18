@@ -65,16 +65,8 @@ AI-Assisted Engineering
 <img src="https://img.shields.io/badge/-Prompt_Engineering-4F46E5?style=flat-square"/>
 </p>
 <br>
-📌 Featured Projects
 
 
-🔹 CrowdSpark — Full-stack crowdfunding platform with a credit-based escrow system, admin approval queue, and real-time-feeling notifications. React Node.js Express MongoDB Firebase Stripe
-🔹 Nestify — Property rental platform with Tenant/Owner/Admin dashboards, Stripe checkout, and a downloadable PDF earnings report. React Firebase Stripe Recharts jsPDF
-🔹 DocAppoint — Doctor appointment booking platform with JWT-secured APIs and real-time search & filtering. React Node.js Express MongoDB Firebase
-🔹 StudyNest — Study resource-sharing platform built with strict TypeScript typing end-to-end. React TypeScript Vite Tailwind CSS
-
-
-(Replace repo links above with your real ones — this section is optional if you'd rather let your pinned repos speak for themselves.)
 
 <br>
 🔗 Connect With Me
