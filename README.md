@@ -2,7 +2,7 @@
 
 <img src="assets/bg.png" width="100%" alt="Banner"/>
 
- Hi, I'm Pritoma 👋
+ Hi, I'm Pritoma 👋 <br>
  Full Stack (MERN) Developer
 
 </div>
