@@ -6,25 +6,25 @@
 <br>
 🚀 About Me
 
-Full Stack (MERN) Developer and Computer Science & Engineering undergraduate at Bangladesh University of Professionals (BUP), with hands-on experience building production-style web applications end to end.
+Full Stack (MERN) Developer and studying Computer Science & Engineering at Bangladesh University of Professionals (BUP), with hands-on experience building production-style web applications end to end.
 
 
-Completed an intensive 6-month full-stack development program covering React, Next.js, TypeScript, Node.js, Express, MongoDB, and Firebase
-Built and deployed multiple full-stack applications with real authentication, payment integration, and role-based access control
-Currently deepening expertise in Next.js, TypeScript, and AI-assisted development workflows
-Focused on writing clean, maintainable code and turning ambiguous requirements into reliable, working products
+- 💻 Completed an intensive **6-month Full Stack Web Development** program with hands-on experience in **React, Next.js, TypeScript, Node.js, Express.js, MongoDB, and Firebase** <br>
+- 🚀 Built and deployed multiple production-style full-stack applications featuring authentication, payment integration, role-based access control, and REST APIs <br>
+- 📚 Continuously expanding expertise in **Next.js, TypeScript, modern backend architecture, and AI-assisted development workflows** <br>
+- 🧩 Passionate about writing clean, maintainable, and scalable code while delivering practical solutions to real-world problems <br>
+- 🤝 Always eager to learn new technologies and collaborate on impactful software projects
 
 
 <br>
 🔭 Currently
 
 
-🚀 Building full-stack MERN projects with real-world features — Stripe payments, JWT auth, role-based dashboards, escrow-style logic
-📘 Going deeper into Next.js and TypeScript
-🤖 Practicing an AI-assisted engineering workflow (prompting, reviewing, and shipping code faster with AI tools)
-🎓 Studying CSE at Bangladesh University of Professionals (BUP)
-🌱 Open to Junior / Full Stack Developer internship and entry-level opportunities
 
+- 🚀 Building production-style **Full Stack MERN** applications with features such as **Stripe payments, JWT authentication, role-based dashboards, and secure backend APIs** <br>
+- 📘 Deepening my knowledge of **Next.js, TypeScript, and modern full-stack development practices** <br>
+- 🤖 Leveraging **AI-assisted development workflows** to improve productivity, code quality, and development speed <br>
+- 🌱 Open to **Junior Full Stack Developer** and **Software Engineer Internship** opportunities
 
 <br>
 🛠️ Skills
@@ -66,6 +66,26 @@ AI-Assisted Engineering
 </p>
 <br>
 
+📌 Featured Projects
+
+
+🔹 CrowdSpark — Full-stack crowdfunding platform with a credit-based escrow system, admin approval queue, and real-time-feeling notifications. 
+   Tech Stack: React Node.js Express MongoDB Firebase Stripe 
+  •Live Link:(https://crowdspark-client.vercel.app) 
+   <br>
+🔹 Nestify — Property rental platform with Tenant/Owner/Admin dashboards, Stripe checkout, and a downloadable PDF earnings report.
+   Tech Stack: React Firebase Stripe Recharts jsPDF
+   •Live Link:(https://nestify-client-hazel.vercel.app)
+   <br>
+   
+🔹 DocAppoint — Doctor appointment booking platform with JWT-secured APIs and real-time search & filtering.
+   Tech Stack: React Node.js Express MongoDB Firebase
+   •Live Link:(https://doc-appoint-client-c5yf.vercel.app)
+   <br>
+🔹 StudyNest — Study resource-sharing platform built with strict TypeScript typing end-to-end. 
+   Tech Stack: React TypeScript Vite Tailwind CSS
+   •Live Link:(https://studynest-client-nine.vercel.app)
+   <br>
 
 
 <br>
